@@ -1,0 +1,3 @@
+- [x] Update navbar in index.html to include Projects link
+- [x] Add Projects section after Skills section in index.html
+- [x] Clean up extra blank lines in index.html
